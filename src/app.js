@@ -13,6 +13,7 @@ async function fetchCountries() {
         });
 
 
+
         createListItems(countries);
 
     } catch (e) {
